@@ -1,4 +1,4 @@
-# DigitNumber说明文档
+# digitnumber说明文档
 一个像素数字JavaScript插件。<br/>
 A JavaScript tool to help you easily draw digit-number in webpage,which rely on canvas.
 
